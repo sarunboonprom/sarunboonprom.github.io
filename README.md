@@ -1,2 +1,3 @@
 # sarunboonprom.github.io
-My first web
+copy and paste this!
+sarunboonprom.github.io/sample/sample/index.html
